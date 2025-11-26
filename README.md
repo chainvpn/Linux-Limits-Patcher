@@ -18,7 +18,7 @@ A comprehensive bash script to optimize Linux system limits for high-performance
 Run this command to download and apply the patch immediately. Supports Ubuntu, Debian, CentOS, and RHEL.
 
 ```bash
-bash <(curl -Ls [https://raw.githubusercontent.com/chainvpn/Linux-Limits-Patcher/refs/heads/main/linux-limits-patcher.sh](https://raw.githubusercontent.com/chainvpn/Linux-Limits-Patcher/refs/heads/main/linux-limits-patcher.sh))
+bash <(curl -Ls https://raw.githubusercontent.com/chainvpn/Linux-Limits-Patcher/refs/heads/main/linux-limits-patcher.sh)
 ````
 
 ### Method 2: Alternative (If curl is missing)
